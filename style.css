@@ -1,0 +1,18 @@
+h1 {
+    color: black;
+}
+
+#window {
+    border: solid 1px blue;
+    margin: 10px;
+    padding: 10px;
+}
+
+
+.highlight {
+    background-color: burlywood;
+}
+
+button:hover {
+    background-color: blue;
+}
