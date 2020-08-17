@@ -1,4 +1,11 @@
 # UPDATE IN PROGRESS
+
+[Visualization](/images/visual.png)
+
+<br/>
+
+[Interaction](/images/interactivity.png)
+
 # About the D3 framework
 
 # D3: Data-Driven Documents
