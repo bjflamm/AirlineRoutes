@@ -1,10 +1,10 @@
 # UPDATE IN PROGRESS
 
-[Visualization](/images/visual.png)
+![Visualization](/images/visual.png)
 
 <br/>
 
-[Interaction](/images/interactivity.png)
+![Interaction](/images/interactivity.png)
 
 # About the D3 framework
 
